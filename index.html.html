@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>존케어서비스 | 네오비다 실내공기질 종합 관리</title>
+  <meta name="description" content="존케어서비스 — 냉난방기·전열교환기 종합 분해세척, 헤파필터 교체, 미세먼지 차단 필터 공급까지. 네오비다(NEOVIDA)의 실내공기질 종합 케어 서비스." />
+
+  <!-- Open Graph (SNS 공유용) -->
+  <meta property="og:title" content="존케어서비스 | 네오비다 실내공기질 종합 관리" />
+  <meta property="og:description" content="냉난방기·전열교환기 분해세척 · 헤파필터 교체 · 미세먼지 차단 필터 공급" />
+  <meta property="og:type" content="website" />
+
+  <!-- 파비콘 (인라인 SVG · 공기 흐름 모티프) -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%230d9488'/><g fill='none' stroke='white' stroke-width='7' stroke-linecap='round'><path d='M22 38h38a9 9 0 1 0-9-9'/><path d='M22 54h50a9 9 0 1 1-9 9'/><path d='M22 70h28a8 8 0 1 1-8 8'/></g></svg>" />
+
+  <!-- 한국어 친화 웹폰트 (오프라인 시 시스템 폰트로 자동 대체) -->
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- ================= 네비게이션 ================= -->
+  <header class="nav" id="nav">
+    <div class="container nav__inner">
+      <a href="#home" class="brand" aria-label="존케어서비스 홈">
+        <span class="brand__mark" aria-hidden="true">
+          <svg viewBox="0 0 100 100" width="22" height="22">
+            <g fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round">
+              <path d="M20 36h40a9 9 0 1 0-9-9" />
+              <path d="M20 54h50a9 9 0 1 1-9 9" />
+              <path d="M20 72h26a8 8 0 1 1-8 8" />
+            </g>
+          </svg>
+        </span>
+        <span class="brand__text">존케어서비스<small>by NEOVIDA · 네오비다</small></span>
+      </a>
+
+      <nav class="nav__menu" id="navMenu" aria-label="주요 메뉴">
+        <a href="#about">서비스 소개</a>
+        <a href="#services">서비스 영역</a>
+        <a href="#process">이용 절차</a>
+        <a href="#why">강점</a>
+        <a href="#contact" class="nav__cta">상담 문의</a>
+      </nav>
+
+      <button class="nav__toggle" id="navToggle" aria-label="메뉴 열기" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <!-- ================= 히어로 ================= -->
+    <section class="hero" id="home">
+      <div class="hero__bg" aria-hidden="true"></div>
+      <div class="container hero__inner">
+        <p class="hero__eyebrow reveal">INDOOR AIR QUALITY CARE · 실내공기질 종합 관리</p>
+        <h1 class="hero__title reveal">
+          보이지 않는 공기까지,<br />
+          <span class="grad-text">깨끗하게 관리합니다</span>
+        </h1>
+        <p class="hero__sub reveal">
+          존케어서비스는 냉난방기·전열교환기의 종합 분해세척부터 헤파필터 교체,
+          미세먼지 차단 필터 공급까지 — 실내 공기질을 한 번에 책임지는
+          네오비다의 종합 케어 서비스입니다.
+        </p>
+        <div class="hero__actions reveal">
+          <a href="#services" class="btn btn--primary">서비스 살펴보기</a>
+          <a href="#contact" class="btn btn--ghost">무료 진단 상담</a>
+        </div>
+
+        <!-- 4개 서비스 빠른 진입 -->
+        <div class="hero__pills reveal">
+          <a href="#svc-hvac" class="pill"><strong>냉난방기 세척·교체</strong><span>종합 분해세척</span></a>
+          <a href="#svc-erv" class="pill"><strong>전열교환기 케어</strong><span>소자·필터 교체</span></a>
+          <a href="#svc-hepa" class="pill"><strong>헤파필터 교체</strong><span>공기인프라</span></a>
+          <a href="#svc-filter" class="pill"><strong>미세먼지 필터</strong><span>소모품 공급</span></a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= 서비스 소개 ================= -->
+    <section class="section" id="about">
+      <div class="container">
+        <div class="section__head reveal">
+          <span class="kicker">ABOUT ZONE CARE</span>
+          <h2>공기의 질이 곧 공간의 가치입니다</h2>
+        </div>
+        <div class="about__grid">
+          <div class="about__lead reveal">
+            <p>
+              우리는 하루의 90% 이상을 실내에서 보냅니다. 그러나 냉난방기와 환기 설비 내부에는
+              시간이 지날수록 먼지·곰팡이·세균이 쌓이고, 필터 성능은 떨어집니다.
+              존케어서비스는 설비를 <strong>완전 분해 세척</strong>하고,
+              핵심 부품과 필터를 <strong>정품으로 교체·관리</strong>하여
+              눈에 보이지 않는 공기까지 쾌적하게 되돌립니다.
+            </p>
+          </div>
+          <ul class="stats">
+            <!-- TODO: 실제 수치로 교체 -->
+            <li><strong data-count="4">4</strong><span>핵심 서비스 영역</span></li>
+            <li><strong>분해세척</strong><span>완전 분해 후 세척</span></li>
+            <li><strong>정품</strong><span>소자·필터 정품 사용</span></li>
+            <li><strong>사후관리</strong><span>정기 점검 플랜</span></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= 서비스 영역 ================= -->
+    <section class="section section--alt" id="services">
+      <div class="container">
+        <div class="section__head reveal">
+          <span class="kicker">SERVICES</span>
+          <h2>네 가지 핵심 서비스</h2>
+          <p class="section__desc">
+            냉난방기와 환기 설비의 세척·수리·교체부터 필터 공급까지,
+            실내공기질에 영향을 주는 모든 설비를 통합 관리합니다.
+          </p>
+        </div>
+
+        <!-- 1. 냉난방기 -->
+        <article class="svc reveal" id="svc-hvac">
+          <div class="svc__media svc__media--hvac" aria-hidden="true">
+            <span class="svc__num">01</span>
+          </div>
+          <div class="svc__body">
+            <h3>냉난방기 종합 분해세척 · 수리 · 교체</h3>
+            <p>
+              에어컨·히트펌프 등 냉난방기를 완전 분해하여 열교환기, 송풍팬, 드레인팬까지
+              내부 깊숙한 오염을 제거합니다. 세척에 그치지 않고 고장 수리와 노후 기기
+              교체까지 한 번에 해결합니다.
+            </p>
+            <ul class="svc__feats">
+              <li>완전 분해 후 열교환기·송풍팬 고압 세척</li>
+              <li>곰팡이·세균 살균 및 드레인 막힘 해소</li>
+              <li>고장 수리 및 노후 기기 교체</li>
+            </ul>
+            <a href="#contact" class="link-arrow">냉난방기 세척 상담 →</a>
+          </div>
+        </article>
+
+        <!-- 2. 전열교환기 -->
+        <article class="svc svc--reverse reveal" id="svc-erv">
+          <div class="svc__media svc__media--erv" aria-hidden="true">
+            <span class="svc__num">02</span>
+          </div>
+          <div class="svc__body">
+            <h3>전열교환기 종합 케어</h3>
+            <p>
+              실내 환기를 담당하는 전열교환기를 분해 세척하고, 열교환 소자와 필터를
+              교체합니다. 환기 효율과 에너지 효율을 동시에 회복시키며, 수리와 기기
+              교체까지 지원합니다.
+            </p>
+            <ul class="svc__feats">
+              <li>전열교환기 분해세척</li>
+              <li>열교환 소자 및 필터 교체</li>
+              <li>수리 및 기기 교체</li>
+            </ul>
+            <a href="#contact" class="link-arrow">전열교환기 케어 상담 →</a>
+          </div>
+        </article>
+
+        <!-- 3. 헤파필터 -->
+        <article class="svc reveal" id="svc-hepa">
+          <div class="svc__media svc__media--hepa" aria-hidden="true">
+            <span class="svc__num">03</span>
+          </div>
+          <div class="svc__body">
+            <h3>공기인프라 헤파필터 교체</h3>
+            <p>
+              건물 내 각종 공기 입·출력 장치(공기인프라)에 장착되는 헤파(HEPA)필터를
+              주기에 맞춰 교체합니다. 미세입자 포집 성능을 항상 최상으로 유지하여
+              공기 청정 효율을 보장합니다.
+            </p>
+            <ul class="svc__feats">
+              <li>공기 입출력 장치(공기인프라) 헤파필터 교체</li>
+              <li>설비 규격에 맞는 필터 선정·공급</li>
+              <li>교체 주기 관리 및 점검</li>
+            </ul>
+            <a href="#contact" class="link-arrow">헤파필터 교체 문의 →</a>
+          </div>
+        </article>
+
+        <!-- 4. 미세먼지 차단 필터 -->
+        <article class="svc svc--reverse reveal" id="svc-filter">
+          <div class="svc__media svc__media--filter" aria-hidden="true">
+            <span class="svc__num">04</span>
+          </div>
+          <div class="svc__body">
+            <h3>미세먼지 차단 필터 공급</h3>
+            <p>
+              미세먼지 차단 필터를 비롯한 각종 소모성 필터를 안정적으로 공급합니다.
+              설비와 사용 환경에 맞는 필터를 추천하고 정기적으로 보급하여
+              관리 부담을 덜어드립니다.
+            </p>
+            <ul class="svc__feats">
+              <li>미세먼지 차단 필터 공급</li>
+              <li>설비·환경 맞춤 필터 추천</li>
+              <li>정기 보급으로 재고 걱정 해소</li>
+            </ul>
+            <a href="#contact" class="link-arrow">필터 공급 문의 →</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- ================= 이용 절차 ================= -->
+    <section class="section" id="process">
+      <div class="container">
+        <div class="section__head reveal">
+          <span class="kicker">PROCESS</span>
+          <h2>네 단계로 끝나는 공기 관리</h2>
+          <p class="section__desc">
+            상담부터 사후 관리까지, 존케어서비스가 전 과정을 책임집니다.
+          </p>
+        </div>
+        <ol class="steps">
+          <li class="step reveal">
+            <span class="step__num">01</span>
+            <h3>현장 진단</h3>
+            <p>설비 상태와 실내 환경을 점검하여 필요한 서비스를 진단합니다.</p>
+          </li>
+          <li class="step reveal">
+            <span class="step__num">02</span>
+            <h3>맞춤 견적</h3>
+            <p>세척·교체·필터 공급 범위에 맞춘 투명한 견적을 안내합니다.</p>
+          </li>
+          <li class="step reveal">
+            <span class="step__num">03</span>
+            <h3>분해세척 · 시공</h3>
+            <p>전문 인력이 분해세척, 부품·필터 교체, 수리를 진행합니다.</p>
+          </li>
+          <li class="step reveal">
+            <span class="step__num">04</span>
+            <h3>사후 관리</h3>
+            <p>교체 주기 안내와 정기 점검으로 깨끗한 공기를 유지합니다.</p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- ================= 강점 ================= -->
+    <section class="section section--alt" id="why">
+      <div class="container">
+        <div class="section__head reveal">
+          <span class="kicker">WHY ZONE CARE</span>
+          <h2>왜 존케어서비스인가</h2>
+        </div>
+        <div class="cards">
+          <div class="card reveal">
+            <div class="card__icon" aria-hidden="true">❖</div>
+            <h3>완전 분해세척</h3>
+            <p>표면 청소가 아닌 완전 분해로 내부 오염원까지 제거합니다.</p>
+          </div>
+          <div class="card reveal">
+            <div class="card__icon" aria-hidden="true">✦</div>
+            <h3>정품 소자·필터</h3>
+            <p>검증된 정품 열교환 소자와 필터만 사용해 성능을 보장합니다.</p>
+          </div>
+          <div class="card reveal">
+            <div class="card__icon" aria-hidden="true">◎</div>
+            <h3>원스톱 서비스</h3>
+            <p>세척·수리·교체·필터 공급을 한 곳에서 통합 관리합니다.</p>
+          </div>
+          <div class="card reveal">
+            <div class="card__icon" aria-hidden="true">↻</div>
+            <h3>정기 관리 플랜</h3>
+            <p>교체 주기에 맞춘 정기 점검으로 공기질을 꾸준히 유지합니다.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= 문의 ================= -->
+    <section class="section section--cta" id="contact">
+      <div class="container contact">
+        <div class="contact__info reveal">
+          <span class="kicker kicker--light">CONTACT</span>
+          <h2>무료 진단·상담 문의</h2>
+          <p>관심 있는 서비스와 현장 정보를 남겨주시면 담당자가 연락드립니다.</p>
+          <ul class="contact__list">
+            <li><span>이메일</span><a href="mailto:dreamon380@gmail.com">dreamon380@gmail.com</a></li>
+            <li><span>전화</span><a href="tel:+821023713532">010-2371-3532</a></li>
+            <li><span>주소</span>경기도 김포시 동을산로143번길 75</li>
+          </ul>
+        </div>
+
+        <form class="contact__form reveal" id="contactForm" novalidate>
+          <div class="field">
+            <label for="cName">이름 / 상호명</label>
+            <input type="text" id="cName" name="name" required placeholder="홍길동 / 네오비다" />
+          </div>
+          <div class="field">
+            <label for="cEmail">이메일</label>
+            <input type="email" id="cEmail" name="email" required placeholder="you@company.com" />
+          </div>
+          <div class="field">
+            <label for="cPhone">연락처</label>
+            <input type="tel" id="cPhone" name="phone" placeholder="010-0000-0000" />
+          </div>
+          <div class="field">
+            <label for="cTopic">관심 서비스</label>
+            <select id="cTopic" name="topic">
+              <option value="냉난방기 종합 분해세척·수리·교체">냉난방기 종합 분해세척·수리·교체</option>
+              <option value="전열교환기 종합 케어">전열교환기 종합 케어</option>
+              <option value="공기인프라 헤파필터 교체">공기인프라 헤파필터 교체</option>
+              <option value="미세먼지 차단 필터 공급">미세먼지 차단 필터 공급</option>
+              <option value="기타">기타 / 일반 문의</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="cMsg">문의 내용</label>
+            <textarea id="cMsg" name="message" rows="4" required placeholder="현장 종류(주택/사무실/매장 등)와 문의 내용을 남겨주세요."></textarea>
+          </div>
+          <button type="submit" class="btn btn--primary btn--block">상담 신청하기</button>
+          <p class="form__note" id="formNote" role="status"></p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- ================= 푸터 ================= -->
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div class="footer__brand">
+        <span class="brand__mark" aria-hidden="true">
+          <svg viewBox="0 0 100 100" width="20" height="20">
+            <g fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round">
+              <path d="M20 36h40a9 9 0 1 0-9-9" />
+              <path d="M20 54h50a9 9 0 1 1-9 9" />
+              <path d="M20 72h26a8 8 0 1 1-8 8" />
+            </g>
+          </svg>
+        </span>
+        <div>
+          <strong>존케어서비스</strong>
+          <p>NEOVIDA · 네오비다 실내공기질 종합 관리</p>
+        </div>
+      </div>
+      <nav class="footer__nav" aria-label="푸터 메뉴">
+        <a href="#about">서비스 소개</a>
+        <a href="#services">서비스 영역</a>
+        <a href="#process">이용 절차</a>
+        <a href="#contact">상담 문의</a>
+      </nav>
+      <p class="footer__copy">© <span id="year"></span> NEOVIDA. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
