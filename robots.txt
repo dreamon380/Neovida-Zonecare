@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.zonecare.co.kr
+Sitemap: https://www.zonecare.co.kr/sitemap.xml
