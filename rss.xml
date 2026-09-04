@@ -7,8 +7,44 @@
     <language>ko</language>
     <copyright>Copyright 2026 Neovida. ZoneCare Service.</copyright>
     <generator>ZoneCare</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://www.zonecare.co.kr/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>잘 잤는데 개운하지 않은 아침, 원인이 침대가 아닐 수 있습니다</title>
+      <link>https://www.zonecare.co.kr/blog/indoor-co2-sleep/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/indoor-co2-sleep/</guid>
+      <category>실내공기질</category>
+      <pubDate>Fri, 04 Sep 2026 09:00:00 +0900</pubDate>
+      <description>잘 잤는데 개운하지 않은 아침, 원인이 침구가 아닐 수 있습니다. 실내 이산화탄소가 왜 침실에서 가장 높아지는지, 연구가 실제로 밝힌 것과 밝히지 않은 것, 창문을 열 수 없는 밤에 필요한 것을 정리했습니다.</description>
+    </item>
+
+    <item>
+      <title>우리 집 공기가 나쁘다는 걸, 우리 집 사람만 모릅니다</title>
+      <link>https://www.zonecare.co.kr/blog/indoor-air-self-check/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/indoor-air-self-check/</guid>
+      <category>실내공기질</category>
+      <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
+      <description>우리 집 냄새는 우리 집 사람만 못 맡습니다. 측정기 없이 5분 만에 확인하는 실내공기질 자가진단 체크리스트 20개 항목 — 냄새·곰팡이·환기설비·몸신호·먼지 5개 축으로 정리했습니다.</description>
+    </item>
+
+    <item>
+      <title>법은 환기설비를 &quot;설치하라&quot;고만 했습니다 — 관리하라는 말은 없습니다</title>
+      <link>https://www.zonecare.co.kr/blog/apartment-ventilation-neglect/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/apartment-ventilation-neglect/</guid>
+      <category>환기시스템</category>
+      <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
+      <description>법은 아파트에 환기설비를 설치하라고만 정했을 뿐, 관리하라는 규정은 없습니다. 방치된 전열교환기 안에서 벌어지는 4단계와 3분 자가진단 체크리스트를 정리했습니다.</description>
+    </item>
+
+    <item>
+      <title>에어컨 청소 견적이 8만 원과 25만 원으로 갈리는 이유</title>
+      <link>https://www.zonecare.co.kr/blog/aircon-cleaning-cost-cycle/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/aircon-cleaning-cost-cycle/</guid>
+      <category>에어컨</category>
+      <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
+      <description>에어컨 청소 견적이 8만 원과 25만 원으로 갈리는 이유는 바가지가 아니라 분해 범위 차이입니다. 청소 주기 판단 기준과 견적서에서 반드시 확인할 5가지를 정리했습니다.</description>
+    </item>
 
     <item>
       <title>방치된 전열교환소자, 교체 현장 기록 (Before/After)</title>
