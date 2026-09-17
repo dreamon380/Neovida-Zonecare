@@ -7,8 +7,17 @@
     <language>ko</language>
     <copyright>Copyright 2026 Neovida. ZoneCare Service.</copyright>
     <generator>ZoneCare</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://www.zonecare.co.kr/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>이 글은 덕트 청소를 권하는 글이 아닙니다</title>
+      <link>https://www.zonecare.co.kr/blog/diffuser-last-30cm/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/diffuser-last-30cm/</guid>
+      <category>환기시스템</category>
+      <pubDate>Thu, 17 Sep 2026 09:00:00 +0900</pubDate>
+      <description>본체 필터를 갈았는데도 냄새가 남는다면, 공기가 지나는 마지막 구간이 남아 있는 것입니다. 배관 전체 청소가 대부분 필요 없는 이유, 그래도 디퓨저는 봐야 하는 이유, 오늘 직접 확인하는 방법 4가지를 정리했습니다.</description>
+    </item>
 
     <item>
       <title>세대는 열립니다 — 정작 못 여는 건 공용부 천장입니다</title>

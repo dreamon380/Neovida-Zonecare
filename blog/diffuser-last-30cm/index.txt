@@ -1,0 +1,117 @@
+2:I[1393,["393","static/chunks/393-a68f1068b6273065.js","308","static/chunks/app/blog/%5Bslug%5D/page-677c903b1d898f85.js"],"default"]
+4:I[4707,[],""]
+6:I[6423,[],""]
+3:T218b,<p><strong>필터를 갈았는데도 냄새가 남는 집이 있습니다.</strong></p>
+<p>전열교환기 본체를 열어 필터를 새것으로 바꾸고, 소자까지 정리했습니다. 그런데 며칠 지나도 방에서 나던 그 냄새가 완전히 사라지지 않습니다.</p>
+<p>이럴 때 대부분은 &quot;청소가 덜 됐나 보다&quot; 하고 다시 본체를 의심합니다. 그런데 본체는 이미 깨끗합니다.</p>
+<p><strong>남은 곳은 그 다음 구간입니다.</strong></p>
+<hr>
+<h2>1. 공기가 실제로 지나는 길</h2>
+<p>세대 환기설비의 구조는 단순합니다.</p>
+<p><strong>베란다·다용도실의 본체</strong> → <strong>천장 속 배관</strong> → <strong>방과 거실 천장의 디퓨저</strong> → <strong>실내</strong></p>
+<p>디퓨저는 천장에 붙은 동그랗거나 네모난 그 부품입니다. 급기구·배기구·환기구, 부르는 이름은 여러 가지인데 <strong>공기가 방으로 나오는 마지막 출구</strong>라는 점은 같습니다.</p>
+<p>본체 필터는 <strong>바깥에서 들어오는 공기</strong>를 걸러 줍니다. 그런데 필터를 지나온 뒤 공기가 지나는 구간 — <strong>배관과 디퓨저</strong> — 은 필터가 지켜 주지 않습니다. 그 구간에 무언가 붙어 있으면, 새 필터를 통과한 깨끗한 공기가 <strong>마지막 30cm에서 다시 오염되어</strong> 방으로 들어옵니다.</p>
+<hr>
+<h2>2. 먼저 말씀드립니다 — 배관 전체 청소는 대부분 필요 없습니다</h2>
+<p>이 이야기를 하면 &quot;그럼 덕트를 다 청소해야겠네요&quot;로 가기 쉬운데, <strong>저희는 그렇게 권하지 않습니다.</strong></p>
+<p>미국 환경보호청(EPA)은 주택 덕트 청소에 대해 이렇게 정리해 두었습니다. <strong>정기적으로 하라고 권하지 않으며, 필요할 때만 하라</strong>는 것입니다. 덕트 청소가 건강 문제를 예방한다는 것이 입증된 적이 없고, 덕트가 더러워서 실내 먼지 농도가 올라간다는 것도 결정적으로 입증되지 않았다고 명시하고 있습니다.</p>
+<p>대신 <strong>하는 편이 나은 세 가지 조건</strong>을 들고 있습니다.</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>조건</th>
+<th>내용</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>(1)</td>
+<td>배관 내부나 설비 부품에 <strong>곰팡이가 눈에 띄게 자라 있을 때</strong></td>
+</tr>
+<tr>
+<td>(2)</td>
+<td><strong>벌레나 설치류가 들어가 있을 때</strong></td>
+</tr>
+<tr>
+<td>(3)</td>
+<td>먼지·이물이 <strong>막힐 정도로 쌓였거나, 급기구에서 실제로 입자가 뿜어져 나올 때</strong></td>
+</tr>
+</tbody></table></div>
+<p>국내 아파트 세대의 환기 배관은 미국식 냉난방 덕트와 구조도 지름도 다르지만, <strong>판단의 원칙은 같습니다 — 증상이나 근거가 있을 때 하는 것이지, 주기적으로 하는 작업이 아닙니다.</strong></p>
+<blockquote>
+<p>저희가 방문해서 배관 안이 깨끗하면 <strong>&quot;이건 안 하셔도 됩니다&quot;</strong> 라고 말씀드립니다. 안 해도 되는 작업을 팔면 그 집에 두 번째는 없습니다.</p>
+</blockquote>
+<hr>
+<h2>3. 그래도 손댈 값어치가 있는 구간 — 디퓨저와 그 주변</h2>
+<p>배관 전체는 아니지만, <strong>디퓨저와 거기서 손이 닿는 구간</strong>은 다릅니다. 이유가 세 가지입니다.</p>
+<p><strong>(1) 여기는 공기가 마지막으로 지나는 곳입니다.</strong> 앞 구간이 아무리 깨끗해도 출구가 더러우면 그 오염이 그대로 방으로 들어옵니다. 반대로 여기가 깨끗하면 체감이 바로 달라집니다.</p>
+<p><strong>(2) 눈에 보이고, 손이 닿습니다.</strong> 디퓨저는 대부분 돌려서 빼거나 클립으로 물려 있어 분리됩니다. 분리하면 안쪽 <strong>30~50cm 구간</strong>까지는 실제로 닦을 수 있습니다. 배관 전체를 여는 공사와는 비용도 난이도도 다른 이야기입니다.</p>
+<p><strong>(3) 실제로 여기에 쌓입니다.</strong> 특히 이런 이력이 있으면 그렇습니다.</p>
+<ul>
+<li><strong>입주 초기</strong> — 신축 공사 과정에서 석고 가루·단열재 조각·비닐 부스러기가 배관에 남는 경우가 있습니다</li>
+<li><strong>필터를 오래 방치한 뒤</strong> — 필터가 제 역할을 못 하던 기간에 통과한 먼지가 배관 안쪽에 붙습니다</li>
+<li><strong>누수·결로 이력</strong> — 습기가 있었던 구간에는 먼지가 젖은 채로 굳습니다</li>
+</ul>
+<hr>
+<h2>4. 오늘 직접 확인하실 수 있는 것 4가지</h2>
+<p>사다리 하나면 됩니다. 5분이면 끝납니다.</p>
+<div class="tablewrap"><table>
+<thead>
+<tr>
+<th>순</th>
+<th>확인 방법</th>
+<th>무엇을 뜻하는가</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>1</strong></td>
+<td><strong>디퓨저 테두리에 검은 띠</strong>가 있는지 봅니다</td>
+<td>공기가 새어 나오는 경로를 따라 먼지가 앉은 자국입니다. 띠가 굵을수록 오래 쌓인 것입니다</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>얇은 종이 한 장</strong>을 급기구에 대 봅니다</td>
+<td>붙어 있지 않고 힘없이 떨어지면 그 계통의 풍량이 약합니다</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>방마다 비교</strong>해 봅니다</td>
+<td>유독 한 방만 약하면 그 방으로 가는 구간이 막혀 있을 가능성이 있습니다</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td>디퓨저를 <strong>분리해 손전등</strong>으로 안쪽을 비춰 봅니다</td>
+<td>안쪽 벽에 먼지가 층으로 붙어 있는지, 축축한 자국이 있는지 보입니다</td>
+</tr>
+</tbody></table></div>
+<ul>
+<li>네 가지 모두 이상 없음 → <strong>아무것도 하지 않으셔도 됩니다.</strong> 본체 필터 주기만 지키시면 됩니다</li>
+<li>검은 띠만 있음 → <strong>디퓨저 표면 세척</strong>으로 끝나는 경우가 많습니다. 직접 하실 수 있습니다</li>
+<li>안쪽에 먼지 층이나 축축한 자국 → <strong>점검 대상</strong>입니다</li>
+<li>곰팡이·벌레·심한 막힘 → 위 2번의 세 조건에 해당합니다. <strong>미루지 마십시오</strong></li>
+</ul>
+<hr>
+<h2>5. 직접 하실 수 있는 것 / 부르셔야 하는 것</h2>
+<p><strong>직접 하셔도 되는 것</strong></p>
+<p>디퓨저를 분리해 <strong>중성세제를 푼 물에 담가 씻고, 완전히 말린 뒤</strong> 다시 끼우는 것까지는 어렵지 않습니다. 다만 두 가지만 지켜 주십시오.</p>
+<ul>
+<li><strong>분리 전에 사진을 찍으십시오.</strong> 날개 각도가 방향을 결정합니다. 뒤집어 끼우면 공기가 엉뚱한 데로 갑니다</li>
+<li><strong>완전히 마른 뒤에 끼우십시오.</strong> 젖은 채로 끼우면 그 자리가 먼지를 붙잡습니다</li>
+</ul>
+<p><strong>부르셔야 하는 경우</strong></p>
+<ul>
+<li>천장이 높거나 디퓨저가 <strong>단단히 고정</strong>돼 분리가 안 될 때 — 억지로 당기면 배관 연결부가 빠집니다</li>
+<li>안쪽 <strong>배관 구간까지 세척</strong>이 필요할 때 — 전용 브러시와 흡입 장비가 필요합니다</li>
+<li><strong>곰팡이가 보일 때</strong> — 닦아내는 것과 제거하는 것은 다릅니다. 표면만 지우면 곧 다시 올라옵니다</li>
+<li><strong>어느 방이 문제인지 특정이 안 될 때</strong> — 풍량을 재 보면 금방 나옵니다</li>
+</ul>
+<hr>
+<h2>6. 마무리</h2>
+<p><strong>환기설비 관리는 본체에서 끝나지 않습니다.</strong></p>
+<p>필터와 소자는 정해진 주기가 있어 챙기기 쉽습니다. 그런데 그 다음 구간 — 배관과 디퓨저 — 은 <strong>주기가 없어서 아무도 챙기지 않습니다.</strong> 그러다 보니 본체를 아무리 관리해도 체감이 안 오는 집이 생깁니다.</p>
+<p>오늘 사다리 하나 놓고 <strong>위 네 가지만 확인해 보십시오.</strong> 대부분의 집은 &quot;아무것도 안 해도 됨&quot;으로 끝납니다. 그게 정상이고, 그 결과가 나오면 그것으로 좋습니다.</p>
+<p><strong>📍 방문 점검 신청 → <a href="https://www.zonecare.co.kr">zonecare.co.kr</a></strong></p>
+<p><strong>💬 카카오채널 상담 → <a href="https://pf.kakao.com/_iHpbX/friend" target="_blank" rel="noopener">@neovida</a></strong></p>
+5:["slug","diffuser-last-30cm","d"]
+7:T804,{"@context":"https://schema.org","@type":"HomeAndConstructionBusiness","@id":"https://www.zonecare.co.kr/#business","name":"네오비다 존케어","alternateName":"ZoneCare by Neovida","url":"https://www.zonecare.co.kr/","image":"https://www.zonecare.co.kr/og-image.jpg","description":"에어컨·환기시스템 분해세척 전문. 송풍팬·열교환기·전열교환기 내부까지 분해 세척하고 헤파·미세먼지 차단 필터를 관리하는 실내공기질 관리 서비스.","telephone":"+82-10-2371-3532","email":"dreamon380@gmail.com","priceRange":"₩₩","address":{"@type":"PostalAddress","addressCountry":"KR"},"areaServed":[{"@type":"AdministrativeArea","name":"서울"},{"@type":"AdministrativeArea","name":"경기"},{"@type":"AdministrativeArea","name":"인천"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"09:00","closes":"13:00"}],"parentOrganization":{"@type":"Organization","name":"Neovida","@id":"https://www.neovida.co.kr/#organization"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"존케어 서비스","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"냉난방기 종합분해세척·수리·교체","serviceType":"에어컨 분해세척"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"환기시스템(전열교환기) 종합분해세척·소자/필터 교체","serviceType":"전열교환기 청소"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"공기청정기·헤파(HEPA) 필터 교체","serviceType":"필터 교체"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"미세먼지 차단 필터 시공","serviceType":"필터 시공"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"존케어 멤버십 (정기 케어 구독)","serviceType":"정기 유지관리 구독"}}]},"sameAs":["https://www.neovida.co.kr/","https://www.imagobiz.kr/"]}0:["DauBxuwDqOHo2yA-INLJ2",[[["",{"children":["blog",{"children":[["slug","diffuser-last-30cm","d"],{"children":["__PAGE__?{\"slug\":\"diffuser-last-30cm\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blog",{"children":[["slug","diffuser-last-30cm","d"],{"children":["__PAGE__",{},[["$L1",[null,["$","$L2",null,{}],["$","main",null,{"children":["$","article",null,{"children":[["$","header",null,{"className":"relative isolate overflow-hidden bg-hero-gradient pt-28 md:pt-36","children":[["$","div",null,{"className":"pointer-events-none absolute inset-0 bg-dot-grid [background-size:26px_26px] opacity-40 [mask-image:radial-gradient(70%_60%_at_60%_20%,#000,transparent)]"}],["$","div",null,{"className":"mx-auto w-full max-w-[720px] px-5 relative z-10 pb-10","children":[["$","p",null,{"className":"text-sm text-mist-500","children":[["$","a",null,{"href":"/blog/","className":"transition-colors hover:text-accent-300","children":"블로그"}]," · 환기시스템"]}],["$","h1",null,{"className":"mt-4 text-display-md text-white text-balance","children":"이 글은 덕트 청소를 권하는 글이 아닙니다"}],["$","p",null,{"className":"mt-5 text-base leading-relaxed text-mist-300","children":"본체 필터를 갈았는데도 냄새가 남는다면, 공기가 지나는 마지막 구간이 남아 있는 것입니다. 배관 전체 청소가 대부분 필요 없는 이유, 그래도 디퓨저는 봐야 하는 이유, 오늘 직접 확인하는 방법 4가지를 정리했습니다."}],["$","time",null,{"className":"mt-5 block text-sm text-mist-500","dateTime":"2026-09-17","children":"2026-09-17"}]]}]]}],["$","div",null,{"className":"mx-auto w-full max-w-[720px] px-5 -mt-2","children":["$","img",null,{"src":"/blog/11_01_diffuser-airpath.png","alt":"이 글은 덕트 청소를 권하는 글이 아닙니다","className":"h-auto w-full rounded-4xl border border-white/10 shadow-card","loading":"lazy"}]}],["$","div",null,{"className":"mx-auto w-full max-w-[720px] px-5 py-12 md:py-16","children":[["$","div",null,{"className":"prose-zone","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","aside",null,{"className":"mt-14 rounded-3xl border border-white/5 bg-ink-800/60 p-7","children":[["$","p",null,{"className":"section-label","children":"Related"}],["$","h2",null,{"className":"mt-2 text-lg font-bold text-white","children":"함께 읽으면 좋은 글"}],["$","ul",null,{"className":"mt-5 flex flex-col divide-y divide-white/5","children":[["$","li","erv-access-hatch-common-area",{"className":"py-3 first:pt-0 last:pb-0","children":["$","a",null,{"href":"/blog/erv-access-hatch-common-area/","className":"group flex items-start gap-3 text-sm font-semibold leading-snug text-mist-100 transition-colors hover:text-accent-300","children":[["$","svg",null,{"fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","viewBox":"0 0 24 24","width":15,"height":15,"className":"mt-1 shrink-0 text-accent-300","children":["$","path",null,{"d":"M5 12h14M13 6l6 6-6 6"}]}],"세대는 열립니다 — 정작 못 여는 건 공용부 천장입니다"]}]}],["$","li","apartment-ventilation-neglect",{"className":"py-3 first:pt-0 last:pb-0","children":["$","a",null,{"href":"/blog/apartment-ventilation-neglect/","className":"group flex items-start gap-3 text-sm font-semibold leading-snug text-mist-100 transition-colors hover:text-accent-300","children":[["$","svg",null,{"fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","viewBox":"0 0 24 24","width":15,"height":15,"className":"mt-1 shrink-0 text-accent-300","children":["$","path",null,{"d":"M5 12h14M13 6l6 6-6 6"}]}],"법은 환기설비를 \"설치하라\"고만 했습니다 — 관리하라는 말은 없습니다"]}]}],["$","li","전열교환기-소자교체-현장",{"className":"py-3 first:pt-0 last:pb-0","children":["$","a",null,{"href":"/blog/%EC%A0%84%EC%97%B4%EA%B5%90%ED%99%98%EA%B8%B0-%EC%86%8C%EC%9E%90%EA%B5%90%EC%B2%B4-%ED%98%84%EC%9E%A5/","className":"group flex items-start gap-3 text-sm font-semibold leading-snug text-mist-100 transition-colors hover:text-accent-300","children":[["$","svg",null,{"fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","viewBox":"0 0 24 24","width":15,"height":15,"className":"mt-1 shrink-0 text-accent-300","children":["$","path",null,{"d":"M5 12h14M13 6l6 6-6 6"}]}],"방치된 전열교환소자, 교체 현장 기록 (Before/After)"]}]}]]}]]}],["$","div",null,{"className":"mt-14 rounded-3xl border border-accent-500/20 bg-accent-500/5 p-7","children":[["$","p",null,{"className":"section-label","children":"ZoneCare"}],["$","h2",null,{"className":"mt-2 text-lg font-bold text-white","children":"지금 우리 집 전열교환기 상태부터 확인하세요"}],["$","p",null,{"className":"mt-2 text-sm leading-relaxed text-mist-300","children":"네오비다 존케어가 방문해 내부 상태를 점검하고 오염도·필요 작업을 사진·수치 리포트로 정리해 드립니다. 방문 점검·리포트는 무료입니다."}],["$","div",null,{"className":"mt-5 flex flex-col gap-3 sm:flex-row","children":[["$","a",null,{"href":"/ventilation-care/","className":"btn-primary","children":["전열교환기 분해세척 보기",["$","svg",null,{"fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","viewBox":"0 0 24 24","width":18,"height":18,"children":["$","path",null,{"d":"M5 12h14M13 6l6 6-6 6"}]}]]}],["$","a",null,{"href":"/ventilation-care/#cta","className":"btn-ghost","children":"무료 점검 신청"}]]}]]}],["$","div",null,{"className":"mt-10","children":["$","a",null,{"href":"/blog/","className":"inline-flex items-center gap-1.5 text-sm font-semibold text-accent-300 transition-colors hover:text-accent-200","children":"← 블로그 목록으로"}]}]]}]]}]}],["$","footer",null,{"className":"border-t border-white/5 bg-ink-950 py-12","children":["$","div",null,{"className":"container-x","children":[["$","div",null,{"className":"flex flex-col justify-between gap-8 md:flex-row","children":[["$","div",null,{"className":"max-w-sm","children":[["$","div",null,{"className":"flex items-center gap-3","children":[["$","span",null,{"className":"relative grid shrink-0 place-items-center overflow-hidden rounded-[26%] bg-app-icon shadow-md shadow-black/30 ring-1 ring-white/15","style":{"width":40,"height":40},"aria-hidden":true,"children":[["$","svg",null,{"fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","viewBox":"0 0 24 24","width":22.400000000000002,"height":22.400000000000002,"className":"relative z-10 text-white","children":[["$","path",null,{"d":"M3 8h11a3 3 0 1 0-3-3"}],["$","path",null,{"d":"M3 16h15a3 3 0 1 1-3 3"}],["$","path",null,{"d":"M3 12h9.5a2.5 2.5 0 1 0-2.5-2.5","opacity":0.55}]]}],["$","span",null,{"className":"pointer-events-none absolute inset-x-0 top-0 h-1/2 bg-gradient-to-b from-white/25 to-transparent"}]]}],["$","span",null,{"className":"leading-tight","children":[["$","span",null,{"className":"block text-lg font-extrabold tracking-tight text-white","children":"존케어서비스"}],["$","span",null,{"className":"mt-0.5 block text-[11px] font-medium text-white/50","children":["by ","NEOVIDA"," · ","네오비다"]}]]}]]}],["$","p",null,{"className":"mt-4 text-sm leading-relaxed text-mist-400","children":"냉난방기·환기시스템 분해세척부터 헤파·미세먼지 차단 필터까지. 네오비다 존케어가 보이지 않는 설비 안쪽의 공기질을 관리합니다."}]]}],["$","div",null,{"className":"grid grid-cols-2 gap-10 sm:gap-16","children":[["$","div",null,{"children":[["$","h3",null,{"className":"font-mono text-xs uppercase tracking-[0.18em] text-mist-500","children":"Menu"}],["$","ul",null,{"className":"mt-4 space-y-2.5","children":[["$","li","/#hero",{"children":["$","a",null,{"href":"/#hero","className":"text-sm text-mist-300 transition-colors hover:text-accent-300","children":"홈"}]}],["$","li","/aircon-care/",{"children":["$","a",null,{"href":"/aircon-care/","className":"text-sm text-mist-300 transition-colors hover:text-accent-300","children":"에어컨 분해세척"}]}],["$","li","/ventilation-care/",{"children":["$","a",null,{"href":"/ventilation-care/","className":"text-sm text-mist-300 transition-colors hover:text-accent-300","children":"환기시스템"}]}],["$","li","/filter-care/",{"children":["$","a",null,{"href":"/filter-care/","className":"text-sm text-mist-300 transition-colors hover:text-accent-300","children":"헤파·미세먼지 필터"}]}],["$","li","/membership/",{"children":["$","a",null,{"href":"/membership/","className":"text-sm text-mist-300 transition-colors hover:text-accent-300","children":"멤버십"}]}],["$","li","/blog/",{"children":["$","a",null,{"href":"/blog/","className":"text-sm text-mist-300 transition-colors hover:text-accent-300","children":"블로그"}]}],["$","li","/#cta",{"children":["$","a",null,{"href":"/#cta","className":"text-sm text-mist-300 transition-colors hover:text-accent-300","children":"고객지원"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"font-mono text-xs uppercase tracking-[0.18em] text-mist-500","children":"Contact"}],["$","ul",null,{"className":"mt-4 space-y-2.5 text-sm text-mist-300","children":[["$","li",null,{"children":"010-2371-3532"}],["$","li",null,{"children":["$","a",null,{"href":"mailto:dreamon380@gmail.com","className":"transition-colors hover:text-accent-300","children":"dreamon380@gmail.com"}]}],"",["$","li",null,{"children":"평일 09:00 ~ 18:00"}]]}]]}]]}]]}],["$","div",null,{"className":"mt-10 flex flex-col gap-2 border-t border-white/5 pt-6 text-xs text-mist-500 sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," Neovida. ZoneCare Service. All rights reserved."]}],["$","p",null,{"children":"네오비다 · 실내공기질(IAQ) 종합관리"}]]}]]}]}]],null],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","blog","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4c77e2ecd9496b2f.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","meta",null,{"name":"naver-site-verification","content":"b509c31f82ffd86bf5c82c2bb070a0ccf324372f"}],["$","link",null,{"rel":"stylesheet","as":"style","crossOrigin":"anonymous","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","title":"네오비다 존케어 블로그","href":"https://www.zonecare.co.kr/rss.xml"}],[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$7"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"에어컨 표면 청소만으로 냄새가 안 없어지는 이유는?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"냄새의 원인 대부분이 송풍팬·열교환기 등 내부 부품의 곰팡이입니다. 분해하지 않으면 닦을 수 없어, 표면 청소로는 해결되지 않습니다.\"}},{\"@type\":\"Question\",\"name\":\"환기시스템(전열교환기)도 청소가 필요한가요?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"네. 2010년대 이후 아파트 베란다·다용도실의 전열교환기는 대다수가 입주 후 한 번도 필터·소자를 교체하지 않아 방치됩니다. 막힌 필터는 환기가 아니라 먼지를 순환시키므로 정기 관리가 필요합니다.\"}},{\"@type\":\"Question\",\"name\":\"존케어 멤버십은 약정 기간이 있나요?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"연 단위 멤버십을 기본으로 하되, 첫 케어 후 유지 여부를 결정하실 수 있도록 안내합니다. 강제 약정으로 묶지 않습니다.\"}},{\"@type\":\"Question\",\"name\":\"방문 점검 비용이 있나요?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"방문 점검과 공기질 리포트는 무료입니다. 오염도와 필요한 작업을 사진·수치로 확인한 뒤 작업 여부를 결정하시면 됩니다.\"}},{\"@type\":\"Question\",\"name\":\"서비스 지역은 어디까지인가요?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"수도권(서울·경기·인천)을 중심으로 운영하며, 그 외 지역은 상담 시 방문 가능 여부를 안내드립니다.\"}}]}"}}]]]}],["$","body",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"name":"theme-color","content":"#0A1A2E"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"이 글은 덕트 청소를 권하는 글이 아닙니다 | 네오비다 존케어"}],["$","meta","4",{"name":"description","content":"본체 필터를 갈았는데도 냄새가 남는다면, 공기가 지나는 마지막 구간이 남아 있는 것입니다. 배관 전체 청소가 대부분 필요 없는 이유, 그래도 디퓨저는 봐야 하는 이유, 오늘 직접 확인하는 방법 4가지를 정리했습니다."}],["$","meta","5",{"name":"keywords","content":"천장 디퓨저 청소,환기구 청소,덕트 청소 필요성,급기구 먼지,전열교환기 배관,환기 디퓨저 분리"}],["$","link","6",{"rel":"canonical","href":"https://www.zonecare.co.kr/blog/diffuser-last-30cm/"}],["$","meta","7",{"property":"og:title","content":"이 글은 덕트 청소를 권하는 글이 아닙니다"}],["$","meta","8",{"property":"og:description","content":"본체 필터를 갈았는데도 냄새가 남는다면, 공기가 지나는 마지막 구간이 남아 있는 것입니다. 배관 전체 청소가 대부분 필요 없는 이유, 그래도 디퓨저는 봐야 하는 이유, 오늘 직접 확인하는 방법 4가지를 정리했습니다."}],["$","meta","9",{"property":"og:url","content":"https://www.zonecare.co.kr/blog/diffuser-last-30cm/"}],["$","meta","10",{"property":"og:locale","content":"ko_KR"}],["$","meta","11",{"property":"og:image","content":"https://www.zonecare.co.kr/blog/11_01_diffuser-airpath.png"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"이 글은 덕트 청소를 권하는 글이 아닙니다"}],["$","meta","15",{"name":"twitter:description","content":"본체 필터를 갈았는데도 냄새가 남는다면, 공기가 지나는 마지막 구간이 남아 있는 것입니다. 배관 전체 청소가 대부분 필요 없는 이유, 그래도 디퓨저는 봐야 하는 이유, 오늘 직접 확인하는 방법 4가지를 정리했습니다."}],["$","meta","16",{"name":"twitter:image","content":"https://www.zonecare.co.kr/blog/11_01_diffuser-airpath.png"}]]
+1:null
