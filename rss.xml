@@ -7,8 +7,35 @@
     <language>ko</language>
     <copyright>Copyright 2026 Neovida. ZoneCare Service.</copyright>
     <generator>ZoneCare</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://www.zonecare.co.kr/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>고장 난 줄 알면서 손을 못 대던 두 대 — 물류센터 상황실 전열교환기</title>
+      <link>https://www.zonecare.co.kr/blog/logistics-center-erv-access-hatch/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/logistics-center-erv-access-hatch/</guid>
+      <category>환기시스템</category>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 +0900</pubDate>
+      <description>김포의 한 대형 물류센터 상황실 천장 속 전열교환기 두 대. 원인은 찾았지만 점검구가 없어 부품에 손이 닿지 않았습니다. 600×600 점검구 2곳을 내고 소자·필터·보드를 교체한 현장 기록입니다.</description>
+    </item>
+
+    <item>
+      <title>먼지가 일인 곳의 에어컨 — 재활용 분류장 80평형 스탠드에어컨 두 대</title>
+      <link>https://www.zonecare.co.kr/blog/gimpo-recycling-center-stand-aircon-cleaning/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/gimpo-recycling-center-stand-aircon-cleaning/</guid>
+      <category>에어컨</category>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 +0900</pubDate>
+      <description>김포도시관리공사 재활용 분류장의 80평형 스탠드에어컨 2대와 실외기 2대. 먼지가 많은 작업장 에어컨의 송풍팬과 열교환기가 어떤 상태였는지, 종합분해세척으로 어떻게 돌아왔는지 현장 사진으로 정리했습니다.</description>
+    </item>
+
+    <item>
+      <title>진료실 천장에서 흘러나온 검은 물 — 의원 천장형 에어컨 네 대</title>
+      <link>https://www.zonecare.co.kr/blog/clinic-ceiling-aircon-cleaning-yangcheon/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/clinic-ceiling-aircon-cleaning-yangcheon/</guid>
+      <category>에어컨</category>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 +0900</pubDate>
+      <description>서울 양천구의 한 가정의학과 의원 처치실·레이저실·대기실 천장형 에어컨 네 대를 분해세척했습니다. 겉은 깨끗했지만 세척수와 물받이, 필터는 달랐습니다. 진료 공간 보양부터 옥상 실외기까지 현장 사진으로 정리했습니다.</description>
+    </item>
 
     <item>
       <title>이 글은 덕트 청소를 권하는 글이 아닙니다</title>
