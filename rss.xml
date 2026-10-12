@@ -7,8 +7,35 @@
     <language>ko</language>
     <copyright>Copyright 2026 Neovida. ZoneCare Service.</copyright>
     <generator>ZoneCare</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://www.zonecare.co.kr/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>문을 내고 나서야 보인 것 — 물류센터 전열교환기에서 꺼낸 소자와 필터</title>
+      <link>https://www.zonecare.co.kr/blog/logistics-center-erv-element-filter-contamination/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/logistics-center-erv-element-filter-contamination/</guid>
+      <category>환기시스템</category>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 +0900</pubDate>
+      <description>김포의 한 대형 물류센터 상황실 전열교환기 두 대에서 꺼낸 열교환 소자 4개와 필터 8장. 새 부품과 나란히 놓으면 차이가 보입니다. 필터가 늦으면 소자가 대신 막히는 이유를 현장 사진으로 정리했습니다.</description>
+    </item>
+
+    <item>
+      <title>지붕 위에서 멈춘 바람 — 김포독립기념관 시스템에어컨 실외기 팬모터 교체</title>
+      <link>https://www.zonecare.co.kr/blog/gimpo-independence-hall-outdoor-unit-fan-motor/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/gimpo-independence-hall-outdoor-unit-fan-motor/</guid>
+      <category>에어컨</category>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 +0900</pubDate>
+      <description>김포독립기념관 시스템에어컨 실외기의 팬모터 2개와 날개, 구동 보드를 교체한 현장 기록. 실외기 팬이 하는 일, 날개와 보드를 함께 바꾼 이유, 과업지시서부터 준공까지 공공시설 수리의 순서를 정리했습니다.</description>
+    </item>
+
+    <item>
+      <title>가스로 돌리는 냉난방기, GHP — 배기 드레인 필터함을 열어 보면</title>
+      <link>https://www.zonecare.co.kr/blog/ghp-exhaust-drain-filter-replacement/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/ghp-exhaust-drain-filter-replacement/</guid>
+      <category>에어컨</category>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 +0900</pubDate>
+      <description>GHP는 가스 엔진으로 압축기를 돌리는 냉난방기입니다. 엔진 배기에서 나온 응축수를 거르는 드레인 필터함을 열어 보면 무엇이 보이는지, 고양의 한 복합시설 실외기 다섯 대의 교체 현장으로 정리했습니다.</description>
+    </item>
 
     <item>
       <title>고장 난 줄 알면서 손을 못 대던 두 대 — 물류센터 상황실 전열교환기</title>
