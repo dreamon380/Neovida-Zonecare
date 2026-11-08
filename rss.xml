@@ -7,8 +7,35 @@
     <language>ko</language>
     <copyright>Copyright 2026 Neovida. ZoneCare Service.</copyright>
     <generator>ZoneCare</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://www.zonecare.co.kr/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>에어컨 세척에 「드레인관 준설」이 한 줄 더 붙은 날 — 김포 걸포다목적체육관</title>
+      <link>https://www.zonecare.co.kr/blog/gimpo-geolpo-gym-ac-cleaning-drain-line/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/gimpo-geolpo-gym-ac-cleaning-drain-line/</guid>
+      <category>에어컨</category>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0900</pubDate>
+      <description>2025년 6월 김포 걸포다목적체육관 천장형 4방향 1대·1방향 5대 세척과 드레인관 준설 기록. 에어컨 안의 물길(드레인판 → 드레인관)과, 13분 사이 달라진 드레인판 사진을 정리했습니다.</description>
+    </item>
+
+    <item>
+      <title>압축기를 바꾼 뒤 사흘, 스트레이너를 또 바꾼 이유 — GHP 실외기 한 대의 열흘</title>
+      <link>https://www.zonecare.co.kr/blog/ghp-compressor-replacement-then-strainer/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/ghp-compressor-replacement-then-strainer/</guid>
+      <category>에어컨</category>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0900</pubDate>
+      <description>16개월 만에 같은 GHP 실외기의 압축기 2개를 다시 교체하고, 사흘 뒤 스트레이너까지 바꿨습니다. 지난해 다른 실외기에서 압축기를 바꾸고도 과열이 났던 기록과, 압축기 교체 때 길(스트레이너)까지 보는 이유를 정리했습니다.</description>
+    </item>
+
+    <item>
+      <title>떼어 낸 부품은 욕실에서 씻습니다 — 부천 고층 아파트 천장형 에어컨, 하루에 두 세대 12대</title>
+      <link>https://www.zonecare.co.kr/blog/bucheon-highrise-apartment-1way-ac-cleaning/</link>
+      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/bucheon-highrise-apartment-1way-ac-cleaning/</guid>
+      <category>에어컨</category>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0900</pubDate>
+      <description>부천의 한 고층 아파트에서 두 세대 천장형 1방향 실내기 12대와 실외기 2대를 하루에 세척했습니다. 마당이 없는 아파트 세대에서 부품을 욕실에서 씻는 이유와, 작업 전 미리 정해 두면 좋은 세 가지를 정리했습니다.</description>
+    </item>
 
     <item>
       <title>2018년 탈의실 천장에서 시작한 일 — 김포 풍무국민체육센터 에어컨, 같은 곳을 다시 맡는다는 것</title>
@@ -161,33 +188,6 @@
       <category>환기시스템</category>
       <pubDate>Wed, 09 Sep 2026 09:00:00 +0900</pubDate>
       <description>아파트 세대 전열교환기는 베란다·다용도실에 있어 접근이 쉽습니다. 문제는 본체가 천장에 매립되는 커뮤니티·오피스·상가입니다. 점검구가 없으면 어떤 일이 벌어지는지, 우리 시설에 있는지 확인하는 법, 신설 작업 전 과정을 현장 사진과 함께 정리했습니다.</description>
-    </item>
-
-    <item>
-      <title>잘 잤는데 개운하지 않은 아침, 원인이 침대가 아닐 수 있습니다</title>
-      <link>https://www.zonecare.co.kr/blog/indoor-co2-sleep/</link>
-      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/indoor-co2-sleep/</guid>
-      <category>실내공기질</category>
-      <pubDate>Fri, 04 Sep 2026 09:00:00 +0900</pubDate>
-      <description>잘 잤는데 개운하지 않은 아침, 원인이 침구가 아닐 수 있습니다. 실내 이산화탄소가 왜 침실에서 가장 높아지는지, 연구가 실제로 밝힌 것과 밝히지 않은 것, 창문을 열 수 없는 밤에 필요한 것을 정리했습니다.</description>
-    </item>
-
-    <item>
-      <title>우리 집 공기가 나쁘다는 걸, 우리 집 사람만 모릅니다</title>
-      <link>https://www.zonecare.co.kr/blog/indoor-air-self-check/</link>
-      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/indoor-air-self-check/</guid>
-      <category>실내공기질</category>
-      <pubDate>Thu, 03 Sep 2026 09:00:00 +0900</pubDate>
-      <description>우리 집 냄새는 우리 집 사람만 못 맡습니다. 측정기 없이 5분 만에 확인하는 실내공기질 자가진단 체크리스트 20개 항목 — 냄새·곰팡이·환기설비·몸신호·먼지 5개 축으로 정리했습니다.</description>
-    </item>
-
-    <item>
-      <title>법은 환기설비를 &quot;설치하라&quot;고만 했습니다 — 관리하라는 말은 없습니다</title>
-      <link>https://www.zonecare.co.kr/blog/apartment-ventilation-neglect/</link>
-      <guid isPermaLink="true">https://www.zonecare.co.kr/blog/apartment-ventilation-neglect/</guid>
-      <category>환기시스템</category>
-      <pubDate>Wed, 02 Sep 2026 09:00:00 +0900</pubDate>
-      <description>법은 아파트에 환기설비를 설치하라고만 정했을 뿐, 관리하라는 규정은 없습니다. 방치된 전열교환기 안에서 벌어지는 4단계와 3분 자가진단 체크리스트를 정리했습니다.</description>
     </item>
 
   </channel>
